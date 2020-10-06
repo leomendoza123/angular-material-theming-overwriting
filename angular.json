@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-material-theming-overwriting"
+    }
+  },
+  "defaultProject": "angular-material-theming-overwriting",
+  "cli": {
+    "analytics": "72432bcc-041c-401e-8cb5-b150cf313416"
+  }
 }
